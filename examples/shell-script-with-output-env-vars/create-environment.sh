@@ -3,8 +3,8 @@
 # exit on error
 set -e
 
-VARNAME1_VALUE="myvalue5"
-VARNAME2_VALUE="myvalue6"
+VARNAME1_VALUE="myvalue7"
+VARNAME2_VALUE="myvalue8"
 
 # Read Qovery Lifecycle Job Output Documentation: https://hub.qovery.com/docs/using-qovery/configuration/lifecycle-job/#job-output
 echo '{
